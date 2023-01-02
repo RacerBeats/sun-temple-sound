@@ -1,0 +1,3696 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9196933720653751459
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Environments/High Wind
+  m_EditorClassIdentifier: 
+  Path: event:/Environments/High Wind
+  Guid:
+    Data1: 848855505
+    Data2: 1183286901
+    Data3: 418141063
+    Data4: 1961836380
+  Banks:
+  - {fileID: -533315990101535107}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 157008
+--- !u!114 &-9147462984393040557
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Interactables.bank
+  m_EditorClassIdentifier: 
+  Path: ../OneDrive/Documents/FMOD Studio/SunTemple/Build/Desktop/Interactables.bank
+  Name: Interactables
+  StudioPath: bank:/Interactables
+  lastModified: 638053637534096836
+  FileSizes:
+  - Name: Desktop
+    Value: 71104
+  Exists: 1
+--- !u!114 &-9113296268382490824
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Environments/Birds
+  m_EditorClassIdentifier: 
+  Path: event:/Environments/Birds
+  Guid:
+    Data1: -632178498
+    Data2: 1284711128
+    Data3: -884771927
+    Data4: -980522548
+  Banks:
+  - {fileID: 4933101883988237267}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 35862
+--- !u!114 &-9056048695297387355
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Sun Temple Zone Player/SunTemple X
+  m_EditorClassIdentifier: 
+  Name: SunTemple X
+  StudioPath: 
+  Min: -125
+  Max: 250
+  Default: -125
+  ID:
+    data1: 23638669
+    data2: 2880751339
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-8778379998713448522
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Interactables/Doors
+  m_EditorClassIdentifier: 
+  Path: event:/Interactables/Doors
+  Guid:
+    Data1: -474129562
+    Data2: 1262241180
+    Data3: 1373986713
+    Data4: 1518509314
+  Banks:
+  - {fileID: -7639591785254993647}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: 3868581442494289769}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-8513489191706539498
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Interactables/Doors
+  m_EditorClassIdentifier: 
+  Path: event:/Interactables/Doors
+  Guid:
+    Data1: -474129562
+    Data2: 1262241180
+    Data3: 1373986713
+    Data4: 1518509314
+  Banks:
+  - {fileID: -9147462984393040557}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: -8198622312805070442}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-8317098971569481748
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Environments/Birds
+  m_EditorClassIdentifier: 
+  Path: event:/Environments/Birds
+  Guid:
+    Data1: -632178498
+    Data2: 1284711128
+    Data3: -884771927
+    Data4: -980522548
+  Banks:
+  - {fileID: -2070638640705955130}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 35862
+--- !u!114 &-8198622312805070442
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Doors/Door
+  m_EditorClassIdentifier: 
+  Name: Door
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 780784115
+    data2: 3767278785
+  Type: 2
+  IsGlobal: 0
+  Labels:
+  - Open_Door
+  - Close_Door
+  Exists: 1
+--- !u!114 &-8192741711762189954
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Restaurant
+  m_EditorClassIdentifier: 
+  Path: event:/Restaurant
+  Guid:
+    Data1: 1688795046
+    Data2: 1323341231
+    Data3: 2081377936
+    Data4: 1845711015
+  Banks:
+  - {fileID: 830755496713809711}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 34680
+--- !u!114 &-8189295691420535803
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Chapel.bank
+  m_EditorClassIdentifier: 
+  Path: ../OneDrive/Documents/FMOD Studio/SunTemple/Build/Desktop/Chapel.bank
+  Name: Chapel
+  StudioPath: bank:/Chapel
+  lastModified: 638053676497150071
+  FileSizes:
+  - Name: Desktop
+    Value: 465856
+  Exists: 1
+--- !u!114 &-7748998517841645746
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Doors/Door
+  m_EditorClassIdentifier: 
+  Name: Door
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 780784115
+    data2: 3767278785
+  Type: 2
+  IsGlobal: 0
+  Labels:
+  - Open_Door
+  - Close_Door
+  Exists: 1
+--- !u!114 &-7639591785254993647
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Interactables.bank
+  m_EditorClassIdentifier: 
+  Path: ../OneDrive/Documents/FMOD Studio/SunTemple/Build/Desktop/Interactables.bank
+  Name: Interactables
+  StudioPath: bank:/Interactables
+  lastModified: 638053712803419336
+  FileSizes:
+  - Name: Desktop
+    Value: 71104
+  Exists: 1
+--- !u!114 &-7624902740995912487
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Church Singing
+  m_EditorClassIdentifier: 
+  Path: event:/Church Singing
+  Guid:
+    Data1: -657476398
+    Data2: 1161456719
+    Data3: 2059361421
+    Data4: -680364249
+  Banks:
+  - {fileID: 9037337702126847112}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 40
+  Length: 11000
+--- !u!114 &-7539655899972078674
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Environments/Wind
+  m_EditorClassIdentifier: 
+  Path: event:/Environments/Wind
+  Guid:
+    Data1: 394479795
+    Data2: 1273066536
+    Data3: 147964846
+    Data4: 1548052627
+  Banks:
+  - {fileID: -2070638640705955130}
+  - {fileID: -2799021696152167157}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 4008
+--- !u!114 &-7470323070862842338
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Zone Player
+  m_EditorClassIdentifier: 
+  Path: event:/Zone Player
+  Guid:
+    Data1: -468841212
+    Data2: 1324875768
+    Data3: 1235255477
+    Data4: -1870009409
+  Banks:
+  - {fileID: -2799021696152167157}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters:
+  - {fileID: 1588876844983602667}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-7411256623367404836
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Zone Player
+  m_EditorClassIdentifier: 
+  Path: event:/Zone Player
+  Guid:
+    Data1: -468841212
+    Data2: 1324875768
+    Data3: 1235255477
+    Data4: -1870009409
+  Banks:
+  - {fileID: 306348396383537706}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters:
+  - {fileID: -6813743795123094916}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-7329483000067306582
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Interactables.bank
+  m_EditorClassIdentifier: 
+  Path: ../OneDrive/Documents/FMOD Studio/SunTemple/Build/Desktop/Interactables.bank
+  Name: Interactables
+  StudioPath: bank:/Interactables
+  lastModified: 638053637534096836
+  FileSizes:
+  - Name: Desktop
+    Value: 71104
+  Exists: 1
+--- !u!114 &-7299428727532309582
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: snapshot:/Reverb Room1
+  m_EditorClassIdentifier: 
+  Path: snapshot:/Reverb Room1
+  Guid:
+    Data1: 1016667959
+    Data2: 1198472142
+    Data3: 528125585
+    Data4: 2129240203
+  Banks:
+  - {fileID: 306348396383537706}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 0
+--- !u!114 &-7298414742473512451
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Sun Temple Zone Player/SunTemple Y
+  m_EditorClassIdentifier: 
+  Name: SunTemple Y
+  StudioPath: 
+  Min: 5
+  Max: 45
+  Default: 5
+  ID:
+    data1: 1225393646
+    data2: 3952373229
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-7273404601766169961
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/walking/Default Walk
+  m_EditorClassIdentifier: 
+  Name: Default Walk
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 653984349
+    data2: 1706857977
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-7266138065393134571
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Zone Player/Zones
+  m_EditorClassIdentifier: 
+  Name: Zones
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1790696878
+    data2: 147365893
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-6934375785531169089
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Environments/Ambience 2d
+  m_EditorClassIdentifier: 
+  Path: event:/Environments/Ambience 2d
+  Guid:
+    Data1: -740535234
+    Data2: 1236657830
+    Data3: 1513760191
+    Data4: -807785795
+  Banks:
+  - {fileID: -2070638640705955130}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 7375
+--- !u!114 &-6897414040788471920
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Chapel/Chapel
+  m_EditorClassIdentifier: 
+  Path: event:/Chapel/Chapel
+  Guid:
+    Data1: -205961585
+    Data2: 1277630818
+    Data3: 183074184
+    Data4: -1165418210
+  Banks:
+  - {fileID: -8189295691420535803}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 12816
+--- !u!114 &-6813743795123094916
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Zone Player/Zones
+  m_EditorClassIdentifier: 
+  Name: Zones
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1790696878
+    data2: 147365893
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-6659193346869829164
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Mid Level Hub.bank
+  m_EditorClassIdentifier: 
+  Path: ../OneDrive/Documents/FMOD Studio/SunTemple/Build/Desktop/Mid Level Hub.bank
+  Name: Mid Level Hub
+  StudioPath: bank:/Mid Level Hub
+  lastModified: 638053676504960710
+  FileSizes:
+  - Name: Desktop
+    Value: 494
+  Exists: 1
+--- !u!114 &-6603036516349109018
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Environments/Ambience 3d
+  m_EditorClassIdentifier: 
+  Path: event:/Environments/Ambience 3d
+  Guid:
+    Data1: 1800862842
+    Data2: 1206812207
+    Data3: -1456439392
+    Data4: -362656179
+  Banks:
+  - {fileID: -2070638640705955130}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 7500
+--- !u!114 &-6273376056428463032
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/walking/Terrain
+  m_EditorClassIdentifier: 
+  Name: Terrain
+  StudioPath: 
+  Min: 0
+  Max: 4
+  Default: 1
+  ID:
+    data1: 3799778640
+    data2: 968194214
+  Type: 2
+  IsGlobal: 0
+  Labels:
+  - Stone
+  - Dirt
+  - Grass
+  - Wood
+  - Water
+  Exists: 1
+--- !u!114 &-6228259084784607099
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Environments/Ambience 3d
+  m_EditorClassIdentifier: 
+  Path: event:/Environments/Ambience 3d
+  Guid:
+    Data1: 1800862842
+    Data2: 1206812207
+    Data3: -1456439392
+    Data4: -362656179
+  Banks:
+  - {fileID: -533315990101535107}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 7500
+--- !u!114 &-6170418395014345105
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Environments/Low Wind
+  m_EditorClassIdentifier: 
+  Path: event:/Environments/Low Wind
+  Guid:
+    Data1: 658634662
+    Data2: 1291189652
+    Data3: 2002209953
+    Data4: 62075336
+  Banks:
+  - {fileID: -2070638640705955130}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 157008
+--- !u!114 &-6136553075363672085
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/walking/Terrain
+  m_EditorClassIdentifier: 
+  Name: Terrain
+  StudioPath: 
+  Min: 0
+  Max: 4
+  Default: 1
+  ID:
+    data1: 3799778640
+    data2: 968194214
+  Type: 2
+  IsGlobal: 0
+  Labels:
+  - Stone
+  - Dirt
+  - Grass
+  - Wood
+  - Water
+  Exists: 1
+--- !u!114 &-5981202413416183324
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../OneDrive/Documents/FMOD Studio/SunTemple/Build/Desktop/Master.bank
+  Name: Master
+  StudioPath: bank:/Master
+  lastModified: 638053637537829072
+  FileSizes:
+  - Name: Desktop
+    Value: 23755488
+  Exists: 1
+--- !u!114 &-5965352857175897893
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Doors/Door
+  m_EditorClassIdentifier: 
+  Name: Door
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 780784115
+    data2: 3767278785
+  Type: 2
+  IsGlobal: 0
+  Labels:
+  - Open_Door
+  - Close_Door
+  Exists: 1
+--- !u!114 &-5946324181195579898
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Church Singing
+  m_EditorClassIdentifier: 
+  Path: event:/Church Singing
+  Guid:
+    Data1: -657476398
+    Data2: 1161456719
+    Data3: 2059361421
+    Data4: -680364249
+  Banks:
+  - {fileID: -3052847305728227811}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 40
+  Length: 11000
+--- !u!114 &-5876123800264958360
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sun Temple Zone Player
+  m_EditorClassIdentifier: 
+  Path: event:/Sun Temple Zone Player
+  Guid:
+    Data1: -109883717
+    Data2: 1174953453
+    Data3: -1496095043
+    Data4: 1320936913
+  Banks:
+  - {fileID: -2799021696152167157}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters:
+  - {fileID: -1701755395057799204}
+  - {fileID: 1175763421574598487}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-5738682480589899945
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/walking/Terrain
+  m_EditorClassIdentifier: 
+  Name: Terrain
+  StudioPath: 
+  Min: 0
+  Max: 4
+  Default: 1
+  ID:
+    data1: 3799778640
+    data2: 968194214
+  Type: 2
+  IsGlobal: 0
+  Labels:
+  - Stone
+  - Dirt
+  - Grass
+  - Wood
+  - Water
+  Exists: 1
+--- !u!114 &-5312297838036221641
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Interactables.bank
+  m_EditorClassIdentifier: 
+  Path: ../OneDrive/Documents/FMOD Studio/SunTemple/Build/Desktop/Interactables.bank
+  Name: Interactables
+  StudioPath: bank:/Interactables
+  lastModified: 638053676500535116
+  FileSizes:
+  - Name: Desktop
+    Value: 71104
+  Exists: 1
+--- !u!114 &-4973712686242690948
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: snapshot:/Reverb Room1
+  m_EditorClassIdentifier: 
+  Path: snapshot:/Reverb Room1
+  Guid:
+    Data1: 1016667959
+    Data2: 1198472142
+    Data3: 528125585
+    Data4: 2129240203
+  Banks:
+  - {fileID: -1150677551176905792}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 0
+--- !u!114 &-4861093235712573918
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Player/walking
+  m_EditorClassIdentifier: 
+  Path: event:/Player/walking
+  Guid:
+    Data1: -775435993
+    Data2: 1264353631
+    Data3: 28918422
+    Data4: -1606918173
+  Banks:
+  - {fileID: -1150677551176905792}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters:
+  - {fileID: -442103755356224845}
+  - {fileID: -6136553075363672085}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-4672080305601154491
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Chapel/Chapel
+  m_EditorClassIdentifier: 
+  Path: event:/Chapel/Chapel
+  Guid:
+    Data1: -205961585
+    Data2: 1277630818
+    Data3: 183074184
+    Data4: -1165418210
+  Banks:
+  - {fileID: 9037337702126847112}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 12816
+--- !u!114 &-4477397873094656981
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Chapel/Chapel
+  m_EditorClassIdentifier: 
+  Path: event:/Chapel/Chapel
+  Guid:
+    Data1: -205961585
+    Data2: 1277630818
+    Data3: 183074184
+    Data4: -1165418210
+  Banks:
+  - {fileID: -3052847305728227811}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 12816
+--- !u!114 &-4425195578583952616
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Mid Level Hub.bank
+  m_EditorClassIdentifier: 
+  Path: ../OneDrive/Documents/FMOD Studio/SunTemple/Build/Desktop/Mid Level Hub.bank
+  Name: Mid Level Hub
+  StudioPath: bank:/Mid Level Hub
+  lastModified: 638053712805904417
+  FileSizes:
+  - Name: Desktop
+    Value: 494
+  Exists: 1
+--- !u!114 &-4414675071906961068
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Interactables/Doors
+  m_EditorClassIdentifier: 
+  Path: event:/Interactables/Doors
+  Guid:
+    Data1: -474129562
+    Data2: 1262241180
+    Data3: 1373986713
+    Data4: 1518509314
+  Banks:
+  - {fileID: -7329483000067306582}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: 4115777429031905929}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-4404375679786284179
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Church Singing
+  m_EditorClassIdentifier: 
+  Path: event:/Church Singing
+  Guid:
+    Data1: -657476398
+    Data2: 1161456719
+    Data3: 2059361421
+    Data4: -680364249
+  Banks:
+  - {fileID: 7092704906439250069}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 40
+  Length: 11000
+--- !u!114 &-4380226191823505365
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Church Singing
+  m_EditorClassIdentifier: 
+  Path: event:/Church Singing
+  Guid:
+    Data1: -657476398
+    Data2: 1161456719
+    Data3: 2059361421
+    Data4: -680364249
+  Banks:
+  - {fileID: 74216570178114474}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 40
+  Length: 11000
+--- !u!114 &-4214464896970589100
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Restaurant
+  m_EditorClassIdentifier: 
+  Path: event:/Restaurant
+  Guid:
+    Data1: 1688795046
+    Data2: 1323341231
+    Data3: 2081377936
+    Data4: 1845711015
+  Banks:
+  - {fileID: -78071608873434431}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 34680
+--- !u!114 &-3955578542311158849
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Low Level Farms.bank
+  m_EditorClassIdentifier: 
+  Path: ../OneDrive/Documents/FMOD Studio/SunTemple/Build/Desktop/Low Level Farms.bank
+  Name: Low Level Farms
+  StudioPath: bank:/Low Level Farms
+  lastModified: 638053637534116793
+  FileSizes:
+  - Name: Desktop
+    Value: 494
+  Exists: 1
+--- !u!114 &-3622773884557510055
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sun Temple Zone Player
+  m_EditorClassIdentifier: 
+  Path: event:/Sun Temple Zone Player
+  Guid:
+    Data1: -109883717
+    Data2: 1174953453
+    Data3: -1496095043
+    Data4: 1320936913
+  Banks:
+  - {fileID: 306348396383537706}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters:
+  - {fileID: -2545473241740838861}
+  - {fileID: -7298414742473512451}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-3601773682881939968
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Environments/Ambience 2d
+  m_EditorClassIdentifier: 
+  Path: event:/Environments/Ambience 2d
+  Guid:
+    Data1: -740535234
+    Data2: 1236657830
+    Data3: 1513760191
+    Data4: -807785795
+  Banks:
+  - {fileID: 4933101883988237267}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 7375
+--- !u!114 &-3362301627598142974
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Environments/Birds
+  m_EditorClassIdentifier: 
+  Path: event:/Environments/Birds
+  Guid:
+    Data1: -632178498
+    Data2: 1284711128
+    Data3: -884771927
+    Data4: -980522548
+  Banks:
+  - {fileID: 830755496713809711}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 35862
+--- !u!114 &-3264407596298201516
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Restaurant
+  m_EditorClassIdentifier: 
+  Path: event:/Restaurant
+  Guid:
+    Data1: 1688795046
+    Data2: 1323341231
+    Data3: 2081377936
+    Data4: 1845711015
+  Banks:
+  - {fileID: 4933101883988237267}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 34680
+--- !u!114 &-3210599775584359678
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Environments/Ambience 2d
+  m_EditorClassIdentifier: 
+  Path: event:/Environments/Ambience 2d
+  Guid:
+    Data1: -740535234
+    Data2: 1236657830
+    Data3: 1513760191
+    Data4: -807785795
+  Banks:
+  - {fileID: -78071608873434431}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 7375
+--- !u!114 &-3109370535526500195
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/walking/Default Walk
+  m_EditorClassIdentifier: 
+  Name: Default Walk
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 653984349
+    data2: 1706857977
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-3052847305728227811
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Chapel.bank
+  m_EditorClassIdentifier: 
+  Path: ../OneDrive/Documents/FMOD Studio/SunTemple/Build/Desktop/Chapel.bank
+  Name: Chapel
+  StudioPath: bank:/Chapel
+  lastModified: 638053637531278312
+  FileSizes:
+  - Name: Desktop
+    Value: 465856
+  Exists: 1
+--- !u!114 &-3010739870333169575
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Environments/Ambience 2d
+  m_EditorClassIdentifier: 
+  Path: event:/Environments/Ambience 2d
+  Guid:
+    Data1: -740535234
+    Data2: 1236657830
+    Data3: 1513760191
+    Data4: -807785795
+  Banks:
+  - {fileID: 830755496713809711}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 7375
+--- !u!114 &-2799021696152167157
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../OneDrive/Documents/FMOD Studio/SunTemple/Build/Desktop/Master.bank
+  Name: Master
+  StudioPath: bank:/Master
+  lastModified: 638053712805834372
+  FileSizes:
+  - Name: Desktop
+    Value: 23755072
+  Exists: 1
+--- !u!114 &-2724793771864457720
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: ../OneDrive/Documents/FMOD Studio/SunTemple/Build/Desktop/Master.strings.bank
+  Name: Master.strings
+  StudioPath: bank:/Master.strings
+  lastModified: 638053637537859006
+  FileSizes:
+  - Name: Desktop
+    Value: 2040
+  Exists: 1
+--- !u!114 &-2545473241740838861
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Sun Temple Zone Player/SunTemple X
+  m_EditorClassIdentifier: 
+  Name: SunTemple X
+  StudioPath: 
+  Min: -125
+  Max: 250
+  Default: -125
+  ID:
+    data1: 23638669
+    data2: 2880751339
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-2541267659940551810
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: ../OneDrive/Documents/FMOD Studio/SunTemple/Build/Desktop/Master.strings.bank
+  Name: Master.strings
+  StudioPath: bank:/Master.strings
+  lastModified: 638053676504930712
+  FileSizes:
+  - Name: Desktop
+    Value: 2040
+  Exists: 1
+--- !u!114 &-2119852100112686819
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Sun Temple Zone Player/SunTemple Y
+  m_EditorClassIdentifier: 
+  Name: SunTemple Y
+  StudioPath: 
+  Min: 5
+  Max: 45
+  Default: 5
+  ID:
+    data1: 1225393646
+    data2: 3952373229
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-2070638640705955130
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Environments.bank
+  m_EditorClassIdentifier: 
+  Path: ../OneDrive/Documents/FMOD Studio/SunTemple/Build/Desktop/Environments.bank
+  Name: Environments
+  StudioPath: bank:/Environments
+  lastModified: 638053712803240093
+  FileSizes:
+  - Name: Desktop
+    Value: 8403264
+  Exists: 1
+--- !u!114 &-1748525604801898508
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sun Temple Zone Player
+  m_EditorClassIdentifier: 
+  Path: event:/Sun Temple Zone Player
+  Guid:
+    Data1: -109883717
+    Data2: 1174953453
+    Data3: -1496095043
+    Data4: 1320936913
+  Banks:
+  - {fileID: -1607124800355340815}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters:
+  - {fileID: 5606764138288528678}
+  - {fileID: 2490772032620520482}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-1736160472846660831
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Chapel/Chapel
+  m_EditorClassIdentifier: 
+  Path: event:/Chapel/Chapel
+  Guid:
+    Data1: -205961585
+    Data2: 1277630818
+    Data3: 183074184
+    Data4: -1165418210
+  Banks:
+  - {fileID: 74216570178114474}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 12816
+--- !u!114 &-1701755395057799204
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Sun Temple Zone Player/SunTemple X
+  m_EditorClassIdentifier: 
+  Name: SunTemple X
+  StudioPath: 
+  Min: -125
+  Max: 250
+  Default: -125
+  ID:
+    data1: 23638669
+    data2: 2880751339
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-1655106488847368637
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Player/walking
+  m_EditorClassIdentifier: 
+  Path: event:/Player/walking
+  Guid:
+    Data1: -775435993
+    Data2: 1264353631
+    Data3: 28918422
+    Data4: -1606918173
+  Banks:
+  - {fileID: 306348396383537706}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters:
+  - {fileID: -3109370535526500195}
+  - {fileID: -101750004410109257}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-1607124800355340815
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../OneDrive/Documents/FMOD Studio/SunTemple/Build/Desktop/Master.bank
+  Name: Master
+  StudioPath: bank:/Master
+  lastModified: 638053637537829072
+  FileSizes:
+  - Name: Desktop
+    Value: 23755488
+  Exists: 1
+--- !u!114 &-1606786708184195124
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Environments/Fire
+  m_EditorClassIdentifier: 
+  Path: event:/Environments/Fire
+  Guid:
+    Data1: 17906308
+    Data2: 1096511686
+    Data3: 818163844
+    Data4: -463997963
+  Banks:
+  - {fileID: -533315990101535107}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 67000
+--- !u!114 &-1507595834228330211
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Environments/Bushes
+  m_EditorClassIdentifier: 
+  Path: event:/Environments/Bushes
+  Guid:
+    Data1: 1724458183
+    Data2: 1098969738
+    Data3: 577739147
+    Data4: 1236616379
+  Banks:
+  - {fileID: -533315990101535107}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-1395267762146845648
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Low Level Farms.bank
+  m_EditorClassIdentifier: 
+  Path: ../OneDrive/Documents/FMOD Studio/SunTemple/Build/Desktop/Low Level Farms.bank
+  Name: Low Level Farms
+  StudioPath: bank:/Low Level Farms
+  lastModified: 638053637534116793
+  FileSizes:
+  - Name: Desktop
+    Value: 494
+  Exists: 1
+--- !u!114 &-1248330509104389429
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Mid Level Hub.bank
+  m_EditorClassIdentifier: 
+  Path: ../OneDrive/Documents/FMOD Studio/SunTemple/Build/Desktop/Mid Level Hub.bank
+  Name: Mid Level Hub
+  StudioPath: bank:/Mid Level Hub
+  lastModified: 638053637537869011
+  FileSizes:
+  - Name: Desktop
+    Value: 494
+  Exists: 1
+--- !u!114 &-1150677551176905792
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../OneDrive/Documents/FMOD Studio/SunTemple/Build/Desktop/Master.bank
+  Name: Master
+  StudioPath: bank:/Master
+  lastModified: 638053637537829072
+  FileSizes:
+  - Name: Desktop
+    Value: 23755488
+  Exists: 1
+--- !u!114 &-1146107959023983279
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Sun Temple Zone Player/SunTemple Y
+  m_EditorClassIdentifier: 
+  Name: SunTemple Y
+  StudioPath: 
+  Min: 5
+  Max: 45
+  Default: 5
+  ID:
+    data1: 1225393646
+    data2: 3952373229
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-1037834458171063314
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Zone Player
+  m_EditorClassIdentifier: 
+  Path: event:/Zone Player
+  Guid:
+    Data1: -468841212
+    Data2: 1324875768
+    Data3: 1235255477
+    Data4: -1870009409
+  Banks:
+  - {fileID: -1607124800355340815}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters:
+  - {fileID: -7266138065393134571}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-652143456421238279
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Environments/Low Wind
+  m_EditorClassIdentifier: 
+  Path: event:/Environments/Low Wind
+  Guid:
+    Data1: 658634662
+    Data2: 1291189652
+    Data3: 2002209953
+    Data4: 62075336
+  Banks:
+  - {fileID: -78071608873434431}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 157008
+--- !u!114 &-550308429590673005
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Environments/Bushes
+  m_EditorClassIdentifier: 
+  Path: event:/Environments/Bushes
+  Guid:
+    Data1: 1724458183
+    Data2: 1098969738
+    Data3: 577739147
+    Data4: 1236616379
+  Banks:
+  - {fileID: -78071608873434431}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-533315990101535107
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Environments.bank
+  m_EditorClassIdentifier: 
+  Path: ../OneDrive/Documents/FMOD Studio/SunTemple/Build/Desktop/Environments.bank
+  Name: Environments
+  StudioPath: bank:/Environments
+  lastModified: 638053676499893146
+  FileSizes:
+  - Name: Desktop
+    Value: 8403264
+  Exists: 1
+--- !u!114 &-442103755356224845
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/walking/Default Walk
+  m_EditorClassIdentifier: 
+  Name: Default Walk
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 653984349
+    data2: 1706857977
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-402346174007294547
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Church Singing
+  m_EditorClassIdentifier: 
+  Path: event:/Church Singing
+  Guid:
+    Data1: -657476398
+    Data2: 1161456719
+    Data3: 2059361421
+    Data4: -680364249
+  Banks:
+  - {fileID: -8189295691420535803}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 40
+  Length: 11000
+--- !u!114 &-191190012739692849
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Environments/Bushes
+  m_EditorClassIdentifier: 
+  Path: event:/Environments/Bushes
+  Guid:
+    Data1: 1724458183
+    Data2: 1098969738
+    Data3: 577739147
+    Data4: 1236616379
+  Banks:
+  - {fileID: 830755496713809711}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-170007136475132518
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Environments/Ambience 2d
+  m_EditorClassIdentifier: 
+  Path: event:/Environments/Ambience 2d
+  Guid:
+    Data1: -740535234
+    Data2: 1236657830
+    Data3: 1513760191
+    Data4: -807785795
+  Banks:
+  - {fileID: -533315990101535107}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 7375
+--- !u!114 &-101750004410109257
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/walking/Terrain
+  m_EditorClassIdentifier: 
+  Name: Terrain
+  StudioPath: 
+  Min: 0
+  Max: 4
+  Default: 1
+  ID:
+    data1: 3799778640
+    data2: 968194214
+  Type: 2
+  IsGlobal: 0
+  Labels:
+  - Stone
+  - Dirt
+  - Grass
+  - Wood
+  - Water
+  Exists: 1
+--- !u!114 &-78071608873434431
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Environments.bank
+  m_EditorClassIdentifier: 
+  Path: ../OneDrive/Documents/FMOD Studio/SunTemple/Build/Desktop/Environments.bank
+  Name: Environments
+  StudioPath: bank:/Environments
+  lastModified: 638053637533566653
+  FileSizes:
+  - Name: Desktop
+    Value: 8403264
+  Exists: 1
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
+  m_Name: FMODStudioCache
+  m_EditorClassIdentifier: 
+  EditorBanks:
+  - {fileID: 2213124639975259203}
+  - {fileID: 74216570178114474}
+  - {fileID: -2070638640705955130}
+  - {fileID: -7639591785254993647}
+  - {fileID: 3137062217155599997}
+  - {fileID: -2799021696152167157}
+  - {fileID: -4425195578583952616}
+  EditorEvents:
+  - {fileID: -1736160472846660831}
+  - {fileID: -4380226191823505365}
+  - {fileID: -6934375785531169089}
+  - {fileID: -6603036516349109018}
+  - {fileID: 8250928451716717987}
+  - {fileID: -6170418395014345105}
+  - {fileID: 4324665784010936970}
+  - {fileID: -7539655899972078674}
+  - {fileID: -8317098971569481748}
+  - {fileID: 8937585080672028699}
+  - {fileID: 8196487066055713090}
+  - {fileID: -8778379998713448522}
+  - {fileID: -7470323070862842338}
+  - {fileID: 7705967669112297757}
+  - {fileID: 533040960551003174}
+  - {fileID: -5876123800264958360}
+  EditorParameters: []
+  MasterBanks:
+  - {fileID: -2799021696152167157}
+  StringsBanks:
+  - {fileID: 2213124639975259203}
+  cacheTime: 638053712805904417
+  cacheVersion: 131593
+--- !u!114 &74216570178114474
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Chapel.bank
+  m_EditorClassIdentifier: 
+  Path: ../OneDrive/Documents/FMOD Studio/SunTemple/Build/Desktop/Chapel.bank
+  Name: Chapel
+  StudioPath: bank:/Chapel
+  lastModified: 638053712802599321
+  FileSizes:
+  - Name: Desktop
+    Value: 467104
+  Exists: 1
+--- !u!114 &306348396383537706
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../OneDrive/Documents/FMOD Studio/SunTemple/Build/Desktop/Master.bank
+  Name: Master
+  StudioPath: bank:/Master
+  lastModified: 638053676504900794
+  FileSizes:
+  - Name: Desktop
+    Value: 23755488
+  Exists: 1
+--- !u!114 &441117324127306824
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Interactables/Doors
+  m_EditorClassIdentifier: 
+  Path: event:/Interactables/Doors
+  Guid:
+    Data1: -474129562
+    Data2: 1262241180
+    Data3: 1373986713
+    Data4: 1518509314
+  Banks:
+  - {fileID: 2174342650742813006}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: -7748998517841645746}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &533040960551003174
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: snapshot:/Reverb Room1
+  m_EditorClassIdentifier: 
+  Path: snapshot:/Reverb Room1
+  Guid:
+    Data1: 1016667959
+    Data2: 1198472142
+    Data3: 528125585
+    Data4: 2129240203
+  Banks:
+  - {fileID: -2799021696152167157}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 0
+--- !u!114 &589244045539941986
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Environments/High Wind
+  m_EditorClassIdentifier: 
+  Path: event:/Environments/High Wind
+  Guid:
+    Data1: 848855505
+    Data2: 1183286901
+    Data3: 418141063
+    Data4: 1961836380
+  Banks:
+  - {fileID: -78071608873434431}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 157008
+--- !u!114 &624987235349602540
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/walking/Default Walk
+  m_EditorClassIdentifier: 
+  Name: Default Walk
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 653984349
+    data2: 1706857977
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &819528437181367230
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Zone Player
+  m_EditorClassIdentifier: 
+  Path: event:/Zone Player
+  Guid:
+    Data1: -468841212
+    Data2: 1324875768
+    Data3: 1235255477
+    Data4: -1870009409
+  Banks:
+  - {fileID: -5981202413416183324}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters:
+  - {fileID: 8142643093143376607}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &830755496713809711
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Environments.bank
+  m_EditorClassIdentifier: 
+  Path: ../OneDrive/Documents/FMOD Studio/SunTemple/Build/Desktop/Environments.bank
+  Name: Environments
+  StudioPath: bank:/Environments
+  lastModified: 638053637533566653
+  FileSizes:
+  - Name: Desktop
+    Value: 8403264
+  Exists: 1
+--- !u!114 &1175763421574598487
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Sun Temple Zone Player/SunTemple Y
+  m_EditorClassIdentifier: 
+  Name: SunTemple Y
+  StudioPath: 
+  Min: 5
+  Max: 45
+  Default: 5
+  ID:
+    data1: 1225393646
+    data2: 3952373229
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &1408450403226911054
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Mid Level Hub.bank
+  m_EditorClassIdentifier: 
+  Path: ../OneDrive/Documents/FMOD Studio/SunTemple/Build/Desktop/Mid Level Hub.bank
+  Name: Mid Level Hub
+  StudioPath: bank:/Mid Level Hub
+  lastModified: 638053637537869011
+  FileSizes:
+  - Name: Desktop
+    Value: 494
+  Exists: 1
+--- !u!114 &1588876844983602667
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Zone Player/Zones
+  m_EditorClassIdentifier: 
+  Name: Zones
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1790696878
+    data2: 147365893
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &2174342650742813006
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Interactables.bank
+  m_EditorClassIdentifier: 
+  Path: ../OneDrive/Documents/FMOD Studio/SunTemple/Build/Desktop/Interactables.bank
+  Name: Interactables
+  StudioPath: bank:/Interactables
+  lastModified: 638053637534096836
+  FileSizes:
+  - Name: Desktop
+    Value: 71104
+  Exists: 1
+--- !u!114 &2213124639975259203
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: ../OneDrive/Documents/FMOD Studio/SunTemple/Build/Desktop/Master.strings.bank
+  Name: Master.strings
+  StudioPath: bank:/Master.strings
+  lastModified: 638053712805874382
+  FileSizes:
+  - Name: Desktop
+    Value: 2040
+  Exists: 1
+--- !u!114 &2401688726067518640
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Low Level Farms.bank
+  m_EditorClassIdentifier: 
+  Path: ../OneDrive/Documents/FMOD Studio/SunTemple/Build/Desktop/Low Level Farms.bank
+  Name: Low Level Farms
+  StudioPath: bank:/Low Level Farms
+  lastModified: 638053676500565107
+  FileSizes:
+  - Name: Desktop
+    Value: 494
+  Exists: 1
+--- !u!114 &2441596806503267439
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Restaurant
+  m_EditorClassIdentifier: 
+  Path: event:/Restaurant
+  Guid:
+    Data1: 1688795046
+    Data2: 1323341231
+    Data3: 2081377936
+    Data4: 1845711015
+  Banks:
+  - {fileID: -533315990101535107}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 34680
+--- !u!114 &2490772032620520482
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Sun Temple Zone Player/SunTemple Y
+  m_EditorClassIdentifier: 
+  Name: SunTemple Y
+  StudioPath: 
+  Min: 5
+  Max: 45
+  Default: 5
+  ID:
+    data1: 1225393646
+    data2: 3952373229
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &2520010358868479279
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Environments/Low Wind
+  m_EditorClassIdentifier: 
+  Path: event:/Environments/Low Wind
+  Guid:
+    Data1: 658634662
+    Data2: 1291189652
+    Data3: 2002209953
+    Data4: 62075336
+  Banks:
+  - {fileID: 830755496713809711}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 157008
+--- !u!114 &2530786859695370304
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Environments/Wind
+  m_EditorClassIdentifier: 
+  Path: event:/Environments/Wind
+  Guid:
+    Data1: 394479795
+    Data2: 1273066536
+    Data3: 147964846
+    Data4: 1548052627
+  Banks:
+  - {fileID: -533315990101535107}
+  - {fileID: 306348396383537706}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 4008
+--- !u!114 &2795037559327111405
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Environments/Bushes
+  m_EditorClassIdentifier: 
+  Path: event:/Environments/Bushes
+  Guid:
+    Data1: 1724458183
+    Data2: 1098969738
+    Data3: 577739147
+    Data4: 1236616379
+  Banks:
+  - {fileID: 4933101883988237267}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &3022248825926453684
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Environments/Fire
+  m_EditorClassIdentifier: 
+  Path: event:/Environments/Fire
+  Guid:
+    Data1: 17906308
+    Data2: 1096511686
+    Data3: 818163844
+    Data4: -463997963
+  Banks:
+  - {fileID: 830755496713809711}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 67000
+--- !u!114 &3137062217155599997
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Low Level Farms.bank
+  m_EditorClassIdentifier: 
+  Path: ../OneDrive/Documents/FMOD Studio/SunTemple/Build/Desktop/Low Level Farms.bank
+  Name: Low Level Farms
+  StudioPath: bank:/Low Level Farms
+  lastModified: 638053712803449337
+  FileSizes:
+  - Name: Desktop
+    Value: 494
+  Exists: 1
+--- !u!114 &3173833007539613214
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Environments/Birds
+  m_EditorClassIdentifier: 
+  Path: event:/Environments/Birds
+  Guid:
+    Data1: -632178498
+    Data2: 1284711128
+    Data3: -884771927
+    Data4: -980522548
+  Banks:
+  - {fileID: -78071608873434431}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 35862
+--- !u!114 &3257584836457681374
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Environments/Low Wind
+  m_EditorClassIdentifier: 
+  Path: event:/Environments/Low Wind
+  Guid:
+    Data1: 658634662
+    Data2: 1291189652
+    Data3: 2002209953
+    Data4: 62075336
+  Banks:
+  - {fileID: -533315990101535107}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 157008
+--- !u!114 &3396632247447698278
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Interactables/Doors
+  m_EditorClassIdentifier: 
+  Path: event:/Interactables/Doors
+  Guid:
+    Data1: -474129562
+    Data2: 1262241180
+    Data3: 1373986713
+    Data4: 1518509314
+  Banks:
+  - {fileID: -5312297838036221641}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: -5965352857175897893}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &3415046518941409297
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/walking/Default Walk
+  m_EditorClassIdentifier: 
+  Name: Default Walk
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 653984349
+    data2: 1706857977
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &3530142745094370166
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Player/walking
+  m_EditorClassIdentifier: 
+  Path: event:/Player/walking
+  Guid:
+    Data1: -775435993
+    Data2: 1264353631
+    Data3: 28918422
+    Data4: -1606918173
+  Banks:
+  - {fileID: -1607124800355340815}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters:
+  - {fileID: -7273404601766169961}
+  - {fileID: 5121414778713929127}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &3692709702517610247
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Environments/High Wind
+  m_EditorClassIdentifier: 
+  Path: event:/Environments/High Wind
+  Guid:
+    Data1: 848855505
+    Data2: 1183286901
+    Data3: 418141063
+    Data4: 1961836380
+  Banks:
+  - {fileID: 830755496713809711}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 157008
+--- !u!114 &3737100751078458783
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sun Temple Zone Player
+  m_EditorClassIdentifier: 
+  Path: event:/Sun Temple Zone Player
+  Guid:
+    Data1: -109883717
+    Data2: 1174953453
+    Data3: -1496095043
+    Data4: 1320936913
+  Banks:
+  - {fileID: -5981202413416183324}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters:
+  - {fileID: 8451275303463615383}
+  - {fileID: -1146107959023983279}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &3857334330043686943
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Environments/Ambience 3d
+  m_EditorClassIdentifier: 
+  Path: event:/Environments/Ambience 3d
+  Guid:
+    Data1: 1800862842
+    Data2: 1206812207
+    Data3: -1456439392
+    Data4: -362656179
+  Banks:
+  - {fileID: -78071608873434431}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 7500
+--- !u!114 &3868581442494289769
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Doors/Door
+  m_EditorClassIdentifier: 
+  Name: Door
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 780784115
+    data2: 3767278785
+  Type: 2
+  IsGlobal: 0
+  Labels:
+  - Open_Door
+  - Close_Door
+  Exists: 1
+--- !u!114 &4115777429031905929
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Doors/Door
+  m_EditorClassIdentifier: 
+  Name: Door
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 780784115
+    data2: 3767278785
+  Type: 2
+  IsGlobal: 0
+  Labels:
+  - Open_Door
+  - Close_Door
+  Exists: 1
+--- !u!114 &4243666022127767924
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Mid Level Hub.bank
+  m_EditorClassIdentifier: 
+  Path: ../OneDrive/Documents/FMOD Studio/SunTemple/Build/Desktop/Mid Level Hub.bank
+  Name: Mid Level Hub
+  StudioPath: bank:/Mid Level Hub
+  lastModified: 638053637537869011
+  FileSizes:
+  - Name: Desktop
+    Value: 494
+  Exists: 1
+--- !u!114 &4324665784010936970
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Restaurant
+  m_EditorClassIdentifier: 
+  Path: event:/Restaurant
+  Guid:
+    Data1: 1688795046
+    Data2: 1323341231
+    Data3: 2081377936
+    Data4: 1845711015
+  Banks:
+  - {fileID: -2070638640705955130}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 34680
+--- !u!114 &4581762589530032012
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Environments/Fire
+  m_EditorClassIdentifier: 
+  Path: event:/Environments/Fire
+  Guid:
+    Data1: 17906308
+    Data2: 1096511686
+    Data3: 818163844
+    Data4: -463997963
+  Banks:
+  - {fileID: -78071608873434431}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 67000
+--- !u!114 &4631137248905804549
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Zone Player/Zones
+  m_EditorClassIdentifier: 
+  Name: Zones
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1790696878
+    data2: 147365893
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &4675608226601972106
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: ../OneDrive/Documents/FMOD Studio/SunTemple/Build/Desktop/Master.strings.bank
+  Name: Master.strings
+  StudioPath: bank:/Master.strings
+  lastModified: 638053637537859006
+  FileSizes:
+  - Name: Desktop
+    Value: 2040
+  Exists: 1
+--- !u!114 &4682214682313012781
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Environments/Wind
+  m_EditorClassIdentifier: 
+  Path: event:/Environments/Wind
+  Guid:
+    Data1: 394479795
+    Data2: 1273066536
+    Data3: 147964846
+    Data4: 1548052627
+  Banks:
+  - {fileID: 4933101883988237267}
+  - {fileID: -1150677551176905792}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 4008
+--- !u!114 &4933101883988237267
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Environments.bank
+  m_EditorClassIdentifier: 
+  Path: ../OneDrive/Documents/FMOD Studio/SunTemple/Build/Desktop/Environments.bank
+  Name: Environments
+  StudioPath: bank:/Environments
+  lastModified: 638053637533566653
+  FileSizes:
+  - Name: Desktop
+    Value: 8403264
+  Exists: 1
+--- !u!114 &5121414778713929127
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/walking/Terrain
+  m_EditorClassIdentifier: 
+  Name: Terrain
+  StudioPath: 
+  Min: 0
+  Max: 4
+  Default: 1
+  ID:
+    data1: 3799778640
+    data2: 968194214
+  Type: 2
+  IsGlobal: 0
+  Labels:
+  - Stone
+  - Dirt
+  - Grass
+  - Wood
+  - Water
+  Exists: 1
+--- !u!114 &5358455601003908334
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: ../OneDrive/Documents/FMOD Studio/SunTemple/Build/Desktop/Master.strings.bank
+  Name: Master.strings
+  StudioPath: bank:/Master.strings
+  lastModified: 638053637537859006
+  FileSizes:
+  - Name: Desktop
+    Value: 2040
+  Exists: 1
+--- !u!114 &5606764138288528678
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Sun Temple Zone Player/SunTemple X
+  m_EditorClassIdentifier: 
+  Name: SunTemple X
+  StudioPath: 
+  Min: -125
+  Max: 250
+  Default: -125
+  ID:
+    data1: 23638669
+    data2: 2880751339
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &5658226081468437930
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Environments/Birds
+  m_EditorClassIdentifier: 
+  Path: event:/Environments/Birds
+  Guid:
+    Data1: -632178498
+    Data2: 1284711128
+    Data3: -884771927
+    Data4: -980522548
+  Banks:
+  - {fileID: -533315990101535107}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 35862
+--- !u!114 &5679045263893885315
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Player/walking
+  m_EditorClassIdentifier: 
+  Path: event:/Player/walking
+  Guid:
+    Data1: -775435993
+    Data2: 1264353631
+    Data3: 28918422
+    Data4: -1606918173
+  Banks:
+  - {fileID: -5981202413416183324}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters:
+  - {fileID: 624987235349602540}
+  - {fileID: -5738682480589899945}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &5687173019958066154
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: snapshot:/Reverb Room1
+  m_EditorClassIdentifier: 
+  Path: snapshot:/Reverb Room1
+  Guid:
+    Data1: 1016667959
+    Data2: 1198472142
+    Data3: 528125585
+    Data4: 2129240203
+  Banks:
+  - {fileID: -1607124800355340815}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 0
+--- !u!114 &5787572641859745392
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Environments/High Wind
+  m_EditorClassIdentifier: 
+  Path: event:/Environments/High Wind
+  Guid:
+    Data1: 848855505
+    Data2: 1183286901
+    Data3: 418141063
+    Data4: 1961836380
+  Banks:
+  - {fileID: 4933101883988237267}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 157008
+--- !u!114 &6289052397289591170
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Zone Player
+  m_EditorClassIdentifier: 
+  Path: event:/Zone Player
+  Guid:
+    Data1: -468841212
+    Data2: 1324875768
+    Data3: 1235255477
+    Data4: -1870009409
+  Banks:
+  - {fileID: -1150677551176905792}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters:
+  - {fileID: 4631137248905804549}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &6985557563257470073
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Low Level Farms.bank
+  m_EditorClassIdentifier: 
+  Path: ../OneDrive/Documents/FMOD Studio/SunTemple/Build/Desktop/Low Level Farms.bank
+  Name: Low Level Farms
+  StudioPath: bank:/Low Level Farms
+  lastModified: 638053637534116793
+  FileSizes:
+  - Name: Desktop
+    Value: 494
+  Exists: 1
+--- !u!114 &7014950449636823108
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Environments/Ambience 3d
+  m_EditorClassIdentifier: 
+  Path: event:/Environments/Ambience 3d
+  Guid:
+    Data1: 1800862842
+    Data2: 1206812207
+    Data3: -1456439392
+    Data4: -362656179
+  Banks:
+  - {fileID: 4933101883988237267}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 7500
+--- !u!114 &7092704906439250069
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Chapel.bank
+  m_EditorClassIdentifier: 
+  Path: ../OneDrive/Documents/FMOD Studio/SunTemple/Build/Desktop/Chapel.bank
+  Name: Chapel
+  StudioPath: bank:/Chapel
+  lastModified: 638053637531278312
+  FileSizes:
+  - Name: Desktop
+    Value: 465856
+  Exists: 1
+--- !u!114 &7105593582841383385
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Environments/Wind
+  m_EditorClassIdentifier: 
+  Path: event:/Environments/Wind
+  Guid:
+    Data1: 394479795
+    Data2: 1273066536
+    Data3: 147964846
+    Data4: 1548052627
+  Banks:
+  - {fileID: 830755496713809711}
+  - {fileID: -5981202413416183324}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 4008
+--- !u!114 &7143316111213932649
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: snapshot:/Reverb Room1
+  m_EditorClassIdentifier: 
+  Path: snapshot:/Reverb Room1
+  Guid:
+    Data1: 1016667959
+    Data2: 1198472142
+    Data3: 528125585
+    Data4: 2129240203
+  Banks:
+  - {fileID: -5981202413416183324}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 0
+--- !u!114 &7646215668608610055
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Environments/Fire
+  m_EditorClassIdentifier: 
+  Path: event:/Environments/Fire
+  Guid:
+    Data1: 17906308
+    Data2: 1096511686
+    Data3: 818163844
+    Data4: -463997963
+  Banks:
+  - {fileID: 4933101883988237267}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 67000
+--- !u!114 &7705967669112297757
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Player/walking
+  m_EditorClassIdentifier: 
+  Path: event:/Player/walking
+  Guid:
+    Data1: -775435993
+    Data2: 1264353631
+    Data3: 28918422
+    Data4: -1606918173
+  Banks:
+  - {fileID: -2799021696152167157}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters:
+  - {fileID: 3415046518941409297}
+  - {fileID: -6273376056428463032}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &7894544364846672302
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Environments/Wind
+  m_EditorClassIdentifier: 
+  Path: event:/Environments/Wind
+  Guid:
+    Data1: 394479795
+    Data2: 1273066536
+    Data3: 147964846
+    Data4: 1548052627
+  Banks:
+  - {fileID: -78071608873434431}
+  - {fileID: -1607124800355340815}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 4008
+--- !u!114 &8011451442143035141
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Chapel/Chapel
+  m_EditorClassIdentifier: 
+  Path: event:/Chapel/Chapel
+  Guid:
+    Data1: -205961585
+    Data2: 1277630818
+    Data3: 183074184
+    Data4: -1165418210
+  Banks:
+  - {fileID: 7092704906439250069}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 12816
+--- !u!114 &8142643093143376607
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Zone Player/Zones
+  m_EditorClassIdentifier: 
+  Name: Zones
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1790696878
+    data2: 147365893
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &8196487066055713090
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Environments/High Wind
+  m_EditorClassIdentifier: 
+  Path: event:/Environments/High Wind
+  Guid:
+    Data1: 848855505
+    Data2: 1183286901
+    Data3: 418141063
+    Data4: 1961836380
+  Banks:
+  - {fileID: -2070638640705955130}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 157008
+--- !u!114 &8242206914767774989
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Environments/Ambience 3d
+  m_EditorClassIdentifier: 
+  Path: event:/Environments/Ambience 3d
+  Guid:
+    Data1: 1800862842
+    Data2: 1206812207
+    Data3: -1456439392
+    Data4: -362656179
+  Banks:
+  - {fileID: 830755496713809711}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 7500
+--- !u!114 &8250928451716717987
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Environments/Fire
+  m_EditorClassIdentifier: 
+  Path: event:/Environments/Fire
+  Guid:
+    Data1: 17906308
+    Data2: 1096511686
+    Data3: 818163844
+    Data4: -463997963
+  Banks:
+  - {fileID: -2070638640705955130}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 67000
+--- !u!114 &8451275303463615383
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Sun Temple Zone Player/SunTemple X
+  m_EditorClassIdentifier: 
+  Name: SunTemple X
+  StudioPath: 
+  Min: -125
+  Max: 250
+  Default: -125
+  ID:
+    data1: 23638669
+    data2: 2880751339
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &8937585080672028699
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Environments/Bushes
+  m_EditorClassIdentifier: 
+  Path: event:/Environments/Bushes
+  Guid:
+    Data1: 1724458183
+    Data2: 1098969738
+    Data3: 577739147
+    Data4: 1236616379
+  Banks:
+  - {fileID: -2070638640705955130}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &9019389674828209790
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Environments/Low Wind
+  m_EditorClassIdentifier: 
+  Path: event:/Environments/Low Wind
+  Guid:
+    Data1: 658634662
+    Data2: 1291189652
+    Data3: 2002209953
+    Data4: 62075336
+  Banks:
+  - {fileID: 4933101883988237267}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 157008
+--- !u!114 &9037337702126847112
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Chapel.bank
+  m_EditorClassIdentifier: 
+  Path: ../OneDrive/Documents/FMOD Studio/SunTemple/Build/Desktop/Chapel.bank
+  Name: Chapel
+  StudioPath: bank:/Chapel
+  lastModified: 638053637531278312
+  FileSizes:
+  - Name: Desktop
+    Value: 465856
+  Exists: 1
+--- !u!114 &9181702660530281801
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sun Temple Zone Player
+  m_EditorClassIdentifier: 
+  Path: event:/Sun Temple Zone Player
+  Guid:
+    Data1: -109883717
+    Data2: 1174953453
+    Data3: -1496095043
+    Data4: 1320936913
+  Banks:
+  - {fileID: -1150677551176905792}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters:
+  - {fileID: -9056048695297387355}
+  - {fileID: -2119852100112686819}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
